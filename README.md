@@ -1,0 +1,1 @@
+React SPA with Redux and Firebase
